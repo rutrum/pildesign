@@ -1,2 +1,2 @@
-default:
-    echo 'Hello, world!'
+run:
+    python3 pildesign/core.py
